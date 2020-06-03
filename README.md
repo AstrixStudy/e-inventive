@@ -1,14 +1,4 @@
 ## Welcome to GitHub Pages
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>e-inventive</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Oxygen:400,700" rel="stylesheet">
 
     <link rel="stylesheet" href="css/animate.css">
@@ -20,10 +10,7 @@
 
     <!-- Theme Style -->
     <link rel="stylesheet" href="css/style.css">
-
-  </head>
-  <body>
-    
+  
     <header role="banner">
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
